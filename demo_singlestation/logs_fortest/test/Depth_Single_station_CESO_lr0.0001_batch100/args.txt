@@ -1,0 +1,6 @@
+test_dataset_dir: ./
+test_dataset_name: Depth_Single_station_CESO
+test_batch_size: 100
+test_init_weights: ./well_trained_model/CESI_epoch_300.pth
+test_height: 96
+test_width: 192
