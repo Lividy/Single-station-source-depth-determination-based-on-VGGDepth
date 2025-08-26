@@ -1,4 +1,4 @@
-name: base
+name: vggdepth
 channels:
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
   - defaults
