@@ -6,6 +6,7 @@ This code repository includes data training, data testing, and visualization for
 
 The neural networks are trained and implemented with Pytorch. You can set up a similar environment using the following commands.
 - Install in the default environment:
+- 
    conda env create -f env.yml (or env_all.yml if you need all my environment)
    conda activate vggdepth
    
