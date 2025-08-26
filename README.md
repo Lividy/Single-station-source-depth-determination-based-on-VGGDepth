@@ -27,7 +27,7 @@ This code includes data training, data testing, and visualization of prediction 
       In demo_singlestation folder
       Plot_new_Depth_Location_single_station_DrawPicture.ipynb
       ## 
-        ![Figure](https://github.com/Lividy/Single-station-source-depth-determination-based-on-VGGDepth/prediction.png)
+        ![Figure](https://github.com/Lividy/Single-station-source-depth-determination-based-on-VGGDepth/blob/main/prediction.png)
 
          
 
