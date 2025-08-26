@@ -8,6 +8,7 @@ The neural networks are trained and implemented with Pytorch. You can set up a s
 - Install in the default environment:
 - 
    conda env create -f env.yml (or env_all.yml if you need all my environment)
+  
    conda activate vggdepth
    
 ## 2. Download training data, testing data, and well-trained model folder
